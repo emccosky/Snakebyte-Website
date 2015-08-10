@@ -1,0 +1,54 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+/* Color Palette */
+
+.purple-0 {background-color: #832CB2 }	/* Main Primary color */
+.purple-1 {background-color: #B475D7 }
+.purple-2 {background-color: #984BC2 }
+.purple-3 {background-color: #6F09A6 }
+.purple-4 {background-color: #53077D }
+.purple-textcolor {color: #53077D }
+
+.orange-0 {background-color: #FF9534 }	/* Main Secondary color (1) */
+.orange-1 {background-color: #FFBF84 }
+.orange-2 {background-color: #FFA959 }
+.orange-3 {background-color: #F97801 }
+.orange-4 {background-color: #BC5A00 }
+.orange-text {color: #F97801 }
+
+.green-0 {background-color: #7AE42E }	/* Main Secondary color (2) */
+.green-1 {background-color: #ADF17D }
+.green-2 {background-color: #91EA52 }
+.green-3 {background-color: #5CDC01 }
+.green-4 {background-color: #45A600 }
+.green-text {color: #5CDC01 }
+
+.teal-0 {background-color: #21A3A3 }	/* Main Complement color */
+.teal-1 {background-color: #6BCECE }
+.teal-2 {background-color: #40B6B6 }
+.teal-3 {background-color: #019595 }
+.teal-4 {background-color: #007171 }
+.teal-text {color: #019595 }
+
+.caption-overlay {
+	background: rgba(0, 0, 0, .5);
+}
+.padding-bars {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.intro-text {
+	font-size: 12px;
+}
+.icon-block {
+  	padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}

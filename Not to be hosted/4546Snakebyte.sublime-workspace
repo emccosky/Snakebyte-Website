@@ -1,0 +1,440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"su",
+				"subMeans"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/index.html",
+			"settings":
+			{
+				"buffer_size": 6241,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/materialize.css",
+			"settings":
+			{
+				"buffer_size": 191676,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": ".slider-small {\n  position: relative;\n  height: auto;\n  max-height: 400px;\n  width: 100%; }\n  .slider-small.fullscreen {\n    height: 100%;\n    width: 100%;\n    position: absolute;\n    top: 0;\n    left: 0;\n    right: 0;\n    bottom: 0; }\n    .slider-small.fullscreen ul.slides {\n      height: 100%; }\n    .slider-small.fullscreen ul.indicators {\n      z-index: 2;\n      bottom: 30px; }\n    .slider-small .slides {\n      background-color: #9e9e9e;\n      margin: 0;\n      height: auto;\n      max-height: 200px;}\n    .slider-small .slides li {\n      opacity: 0;\n      position: absolute;\n      top: 0;\n      left: 0;\n      z-index: 1;\n      width: 100%;\n      height: inherit;\n      overflow: hidden; }\n      .slider-small .slides li img {\n        height: 100%;\n        width: 100%;\n        background-size: cover;\n        background-position: center; }\n      .slider-small .slides li .caption {\n        color: #fff;\n        position: absolute;\n        top: 15%;\n        left: 15%;\n        width: 70%;\n        opacity: 0; }\n        .slider-small .slides li .caption p {\n          color: #e0e0e0; }\n      .slider-small .slides li.active {\n        z-index: 2; }\n  .slider-small .indicators {\n    position: absolute;\n    text-align: center;\n    left: 0;\n    right: 0;\n    bottom: 0;\n    margin: 0; }\n    .slider-small .indicators .indicator-item {\n      display: inline-block;\n      position: relative;\n      cursor: pointer;\n      height: 16px;\n      width: 16px;\n      margin: 0 12px;\n      background-color: #e0e0e0;\n      -webkit-transition: background-color .3s;\n      -moz-transition: background-color .3s;\n      -o-transition: background-color .3s;\n      -ms-transition: background-color .3s;\n      transition: background-color .3s;\n      border-radius: 50%; }\n      .slider-small .indicators .indicator-item.active {\n        background-color: #4CAF50; }",
+			"settings":
+			{
+				"buffer_size": 1853,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/js/init.js",
+			"settings":
+			{
+				"buffer_size": 225,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/js/materialize.js",
+			"settings":
+			{
+				"buffer_size": 254545,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/style.css",
+			"settings":
+			{
+				"buffer_size": 1437,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/js"
+	],
+	"file_history":
+	[
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte 2014-15/home.html",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte 2014-15/css/main.css",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/materialize.css",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/js/init.js",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/index.html",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Parallax Template/index.html",
+		"/C/Users/Personal2/Documents/R Programming/pollutantmean.R",
+		"/C/Users/Personal2/Documents/R Programming/complete.R",
+		"/C/Users/Personal2/Documents/R Programming/corr.R",
+		"/C/Users/Personal2/Documents/R Programming/code2.R",
+		"/C/Users/Personal2/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Personal2/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/Users/Personal2/Desktop/Robotics/Web/css/main.css",
+		"/C/Users/Personal2/Desktop/Eddies Webstie/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"small",
+			"slider",
+			"color-complement",
+			"color-secondary-2",
+			"color-secondary-1",
+			"color-primary",
+			" color:",
+			"color:",
+			"italic",
+			".left",
+			"left",
+			".row",
+			".row.left",
+			"brand-logo",
+			"logo-container",
+			"nav-wrapper",
+			"slider",
+			"color:",
+			"color-complement",
+			"color-secondary-2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mini",
+			"slider-small",
+			"teal",
+			"green",
+			"orange",
+			"purple",
+			"background-color:",
+			"teal",
+			"green"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1670,
+								1670
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/materialize.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173430,
+								173430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 112138.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1853
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 287.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/js/init.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/js/materialize.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 254545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145885,
+								145885
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 43226.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 8
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "4546Snakebyte.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
