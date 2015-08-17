@@ -23,8 +23,16 @@
 			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/index.html",
 			"settings":
 			{
-				"buffer_size": 6241,
+				"buffer_size": 6788,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/template.html",
+			"settings":
+			{
+				"buffer_size": 3156,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -33,14 +41,6 @@
 			{
 				"buffer_size": 191676,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": ".slider-small {\n  position: relative;\n  height: auto;\n  max-height: 400px;\n  width: 100%; }\n  .slider-small.fullscreen {\n    height: 100%;\n    width: 100%;\n    position: absolute;\n    top: 0;\n    left: 0;\n    right: 0;\n    bottom: 0; }\n    .slider-small.fullscreen ul.slides {\n      height: 100%; }\n    .slider-small.fullscreen ul.indicators {\n      z-index: 2;\n      bottom: 30px; }\n    .slider-small .slides {\n      background-color: #9e9e9e;\n      margin: 0;\n      height: auto;\n      max-height: 200px;}\n    .slider-small .slides li {\n      opacity: 0;\n      position: absolute;\n      top: 0;\n      left: 0;\n      z-index: 1;\n      width: 100%;\n      height: inherit;\n      overflow: hidden; }\n      .slider-small .slides li img {\n        height: 100%;\n        width: 100%;\n        background-size: cover;\n        background-position: center; }\n      .slider-small .slides li .caption {\n        color: #fff;\n        position: absolute;\n        top: 15%;\n        left: 15%;\n        width: 70%;\n        opacity: 0; }\n        .slider-small .slides li .caption p {\n          color: #e0e0e0; }\n      .slider-small .slides li.active {\n        z-index: 2; }\n  .slider-small .indicators {\n    position: absolute;\n    text-align: center;\n    left: 0;\n    right: 0;\n    bottom: 0;\n    margin: 0; }\n    .slider-small .indicators .indicator-item {\n      display: inline-block;\n      position: relative;\n      cursor: pointer;\n      height: 16px;\n      width: 16px;\n      margin: 0 12px;\n      background-color: #e0e0e0;\n      -webkit-transition: background-color .3s;\n      -moz-transition: background-color .3s;\n      -o-transition: background-color .3s;\n      -ms-transition: background-color .3s;\n      transition: background-color .3s;\n      border-radius: 50%; }\n      .slider-small .indicators .indicator-item.active {\n        background-color: #4CAF50; }",
-			"settings":
-			{
-				"buffer_size": 1853,
-				"line_ending": "Windows"
 			}
 		},
 		{
@@ -63,7 +63,7 @@
 			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/style.css",
 			"settings":
 			{
-				"buffer_size": 1437,
+				"buffer_size": 1442,
 				"line_ending": "Unix"
 			}
 		}
@@ -101,8 +101,9 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte 2014-15/home.html",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte 2014-15/contact.html",
 		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte 2014-15/css/main.css",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte 2014-15/home.html",
 		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/materialize.css",
 		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/js/init.js",
 		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/index.html",
@@ -187,15 +188,45 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6241,
+						"buffer_size": 6788,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1670,
-								1670
+								4646,
+								4646
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1575.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/template.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
 							]
 						],
 						"settings":
@@ -208,11 +239,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/materialize.css",
 					"semi_transient": false,
 					"settings":
@@ -236,35 +267,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 112138.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1853,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								1853
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 287.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
@@ -333,15 +335,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1437,
+						"buffer_size": 1442,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								232,
-								226
+								433,
+								433
 							]
 						],
 						"settings":
