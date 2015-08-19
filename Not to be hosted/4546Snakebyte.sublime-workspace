@@ -23,7 +23,7 @@
 			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/index.html",
 			"settings":
 			{
-				"buffer_size": 6788,
+				"buffer_size": 6902,
 				"line_ending": "Unix"
 			}
 		},
@@ -31,7 +31,15 @@
 			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/template.html",
 			"settings":
 			{
-				"buffer_size": 3156,
+				"buffer_size": 3262,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/team.html",
+			"settings":
+			{
+				"buffer_size": 13770,
 				"line_ending": "Windows"
 			}
 		},
@@ -63,7 +71,7 @@
 			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/style.css",
 			"settings":
 			{
-				"buffer_size": 1442,
+				"buffer_size": 1457,
 				"line_ending": "Unix"
 			}
 		}
@@ -133,6 +141,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"600px",
+			"@media",
+			"card",
 			"small",
 			"slider",
 			"color-complement",
@@ -160,6 +171,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"700px",
 			"mini",
 			"slider-small",
 			"teal",
@@ -179,7 +191,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -188,15 +200,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6788,
+						"buffer_size": 6902,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4646,
-								4646
+								1157,
+								1157
 							]
 						],
 						"settings":
@@ -206,10 +218,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1575.0,
+						"translation.y": 649.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -218,15 +230,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3156,
+						"buffer_size": 3262,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								236,
-								236
+								2042,
+								2042
 							]
 						],
 						"settings":
@@ -236,14 +248,44 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 205.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
+					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/team.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5494,
+								5494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1499.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/materialize.css",
 					"semi_transient": false,
 					"settings":
@@ -255,8 +297,8 @@
 						"selection":
 						[
 							[
-								173430,
-								173430
+								44545,
+								44545
 							]
 						],
 						"settings":
@@ -266,14 +308,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 112138.0,
+						"translation.y": 31526.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/js/init.js",
 					"semi_transient": false,
 					"settings":
@@ -297,11 +339,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/js/materialize.js",
 					"semi_transient": false,
 					"settings":
@@ -326,24 +368,24 @@
 						"translation.y": 43226.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1442,
+						"buffer_size": 1457,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								433,
-								433
+								1457,
+								1457
 							]
 						],
 						"settings":
@@ -355,7 +397,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]

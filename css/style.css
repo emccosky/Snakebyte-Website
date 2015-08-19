@@ -52,4 +52,9 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
-.bio-container
+
+.team-photo {
+	margin-left: 10%;
+	width: 80%;
+	height: auto;
+}
