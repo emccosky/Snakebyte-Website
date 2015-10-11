@@ -58,3 +58,11 @@
 	width: 80%;
 	height: auto;
 }
+.resources {
+	padding-left: 25px;
+	list-style-type: disc;
+}
+.nested-list{
+    padding-left:25px;
+    list-style-type:circle !important;
+}
