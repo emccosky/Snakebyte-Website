@@ -5246,7 +5246,7 @@ span.badge {
 
 nav {
   color: #fff;
-  background-color: #ee6e73;
+  background-color: #6F09A6;
   width: 100%;
   height: 56px;
   line-height: 56px; }
@@ -5305,8 +5305,10 @@ nav {
       transition: background-color .3s;
       float: left;
       padding: 0; }
-      nav ul li:hover, nav ul li.active {
-        background-color: rgba(0, 0, 0, 0.1); }
+      nav ul li:hover {
+        background-color: #F97801; }
+      nav ul li.active {
+        background-color: #FF9534; }
     nav ul a {
       font-size: 1rem;
       color: #fff;
