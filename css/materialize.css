@@ -5246,7 +5246,7 @@ span.badge {
 
 nav {
   color: #fff;
-  background-color: #ee6e73;
+  background-color: #6F09A6;
   width: 100%;
   height: 56px;
   line-height: 56px; }
@@ -5305,8 +5305,10 @@ nav {
       transition: background-color .3s;
       float: left;
       padding: 0; }
-      nav ul li:hover, nav ul li.active {
-        background-color: rgba(0, 0, 0, 0.1); }
+      nav ul li:hover {
+        background-color: #ff9029; }
+      nav ul li.active {
+        background-color: #FF9534; }
     nav ul a {
       font-size: 1rem;
       color: #fff;
@@ -6850,7 +6852,7 @@ input[type=range] + .thumb {
   height: 0;
   width: 0;
   border-radius: 50%;
-  background-color: #26a69a;
+  background-color: #5CDC01;
   top: 10px;
   margin-left: -6px;
   -webkit-transform-origin: 50% 50%;
@@ -6867,7 +6869,7 @@ input[type=range] + .thumb {
     display: block;
     width: 30px;
     text-align: center;
-    color: #26a69a;
+    color: #5CDC01;
     font-size: 0;
     -webkit-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
@@ -6899,7 +6901,7 @@ input[type=range]::-webkit-slider-thumb {
   height: 14px;
   width: 14px;
   border-radius: 50%;
-  background-color: #26a69a;
+  background-color: #5CDC01;
   transform-origin: 50% 50%;
   margin: -5px 0 0 0;
   -webkit-transition: 0.3s;
@@ -6922,7 +6924,7 @@ input[type=range]::-webkit-slider-mini-thumb {
   height: 14px;
   width: 14px;
   border-radius: 50%;
-  background-color: #26a69a;
+  background-color: #5CDC01;
   transform-origin: 50% 50%;
   margin: -5px 0 0 0;
   -webkit-transition: 0.3s;
@@ -7594,7 +7596,7 @@ select {
       transition: background-color .3s;
       border-radius: 50%; }
       .slider .indicators .indicator-item.active {
-        background-color: #832CB2; }
+        background-color: #4fbc01; }
 
 /*=============================*/
 /*         MINI SLIDER        */
@@ -7669,7 +7671,7 @@ select {
       transition: background-color .3s;
       border-radius: 50%; }
       .slider-mini .indicators .indicator-item.active {
-        background-color: #832CB2; }
+        background-color: #5CDC01; }
 
 /* ==========================================================================
    $BASE-PICKER
