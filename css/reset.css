@@ -36,6 +36,10 @@
 .teal-4 {background-color: #007171 }
 .teal-text {color: #019595 }
 
+.vertical-padding {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
 .caption-overlay {
 	background: rgba(0, 0, 0, .5);
 }

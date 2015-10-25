@@ -4,16 +4,16 @@
 		"selected_items":
 		[
 			[
+				"padding",
+				"padding-bottom"
+			],
+			[
 				"list-",
 				"list-style-type"
 			],
 			[
 				"margin",
 				"margin-left"
-			],
-			[
-				"padding",
-				"padding-left"
 			],
 			[
 				"min",
@@ -39,15 +39,23 @@
 			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/index.html",
 			"settings":
 			{
-				"buffer_size": 6975,
+				"buffer_size": 6916,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/test.html",
+			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/resources.html",
 			"settings":
 			{
-				"buffer_size": 14407,
+				"buffer_size": 17910,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/robot.html",
+			"settings":
+			{
+				"buffer_size": 5852,
 				"line_ending": "Windows"
 			}
 		},
@@ -60,18 +68,10 @@
 			}
 		},
 		{
-			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/robot.html",
-			"settings":
-			{
-				"buffer_size": 5461,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/reset.css",
 			"settings":
 			{
-				"buffer_size": 2658,
+				"buffer_size": 2721,
 				"line_ending": "Windows"
 			}
 		},
@@ -122,15 +122,17 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/robot.html",
-		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/robot.html",
-		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/colors.html",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/template.html",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/team.html",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/contact.html",
 		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/resources.html",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/robot.html",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/test.html",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/robot.html",
+		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/colors.html",
 		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/new materialize.css",
 		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/color palette.png",
 		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/materialize.css",
-		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/template.html",
-		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/team.html",
 		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/Color palette by Paletton.com.html",
 		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/color palette.txt",
 		"/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/js/materialize.js",
@@ -229,7 +231,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -238,15 +240,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6975,
+						"buffer_size": 6916,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								6916,
+								6916
 							]
 						],
 						"settings":
@@ -256,27 +258,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 42.0,
+						"translation.y": 1890.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/test.html",
+					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/resources.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14407,
+						"buffer_size": 17910,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10190,
-								10495
+								17910,
+								17910
 							]
 						],
 						"settings":
@@ -286,14 +288,44 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 246.0,
+						"translation.y": 4021.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/robot.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2490,
+								2490
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 725.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/materialize.css",
 					"semi_transient": false,
 					"settings":
@@ -323,61 +355,31 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/robot.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5461,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2006,
-								2006
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 481.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
 					"buffer": 4,
 					"file": "/C/Users/Personal2/Desktop/Robotics/Web/Snakebyte2016/css/reset.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2658,
+						"buffer_size": 2721,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2386,
-								2386
+								1266,
+								1266
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
-						"translation.x": 0.0,
-						"translation.y": 768.0,
+						"translation.x": -0.0,
+						"translation.y": 164.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -406,7 +408,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
